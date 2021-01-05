@@ -1,2 +1,2 @@
 # Data-visualisation-
-Data visualisation
+Data visualisations
