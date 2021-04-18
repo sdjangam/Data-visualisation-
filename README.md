@@ -28,7 +28,7 @@ Maintain integrity when plotting data: Avoid misleading graphs
 
 Web–based visualization libraries
 
-Data Analysis/Business Intelligence and Visualization Softwares
+Data Analysis/Business Intelligence and Visualization Software
 
 
 
