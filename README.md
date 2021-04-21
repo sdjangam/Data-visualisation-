@@ -64,7 +64,7 @@ Python Code: Plotting US Census data using datashader
 
 Graph visualization: Why?
 
-Graph visualization: Challenges
+Graph visualization: Challenge
 
 Graph visualization: Aesthetics
 
