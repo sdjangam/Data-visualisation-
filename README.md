@@ -5,7 +5,7 @@
 
 For any good data science story, it is very important to visualize it nicely. Visualizations help us understand data and insights much better.
 
-I cover basic of visualizations in R and Python in those respective modules. In this module, I will talk about innovative ways of visualizing complex and large data.
+I cover basics of visualizations in R and Python in those respective modules. In this module, I will talk about innovative ways of visualizing complex and large data.
 
 
 ![image](https://user-images.githubusercontent.com/67232573/114191748-9c3a1000-9901-11eb-93c2-07a901dfacd2.png)
